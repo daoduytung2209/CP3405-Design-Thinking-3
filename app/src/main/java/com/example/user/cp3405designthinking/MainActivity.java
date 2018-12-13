@@ -7,6 +7,7 @@ import android.widget.Button;
 public class MainActivity extends AppCompatActivity {
 
     private Button button;
+    private boolean iii;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
