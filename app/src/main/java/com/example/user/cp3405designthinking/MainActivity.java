@@ -8,6 +8,7 @@ public class MainActivity extends AppCompatActivity {
 
     private Button button;
     private boolean iii;
+    private boolean tung;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
